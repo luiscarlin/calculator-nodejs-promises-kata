@@ -1,5 +1,5 @@
 # NodeJS Asynchornous Kata
-
+[![CircleCI](https://circleci.com/gh/luiscarlin/nodejs-async-kata.svg?style=svg)](https://circleci.com/gh/luiscarlin/nodejs-async-kata)
 
 ## Run
 
