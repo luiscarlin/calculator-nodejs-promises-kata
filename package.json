@@ -1,13 +1,15 @@
 {
-  "name": "promises-kata",
+  "name": "nodejs-async-kata",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "postinstall": "eslint ./*.js ./**/*.js",
     "test": "mocha ./spec"
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {},
   "devDependencies": {
     "chai": "^4.1.2",
     "eslint": "^4.8.0",

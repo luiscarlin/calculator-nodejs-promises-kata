@@ -1,4 +1,4 @@
-# calculator-nodejs-promises-kata
+# NodeJS Asynchornous Kata
 
 
 ## Run
